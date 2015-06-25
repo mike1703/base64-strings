@@ -1,1 +1,4 @@
 This python script searches in a text potential base64 strings and returns a mapping of encoded/decoded strings which were found in the input file
+
+usage:
+python base64strings.py testcase
